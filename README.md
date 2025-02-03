@@ -1,7 +1,7 @@
 # Olá, eu sou Eduardo Nizer! 👋
 
 ## 🧑‍💻 Sobre Mim
-Tenho 27 anos e atualmente estou em transição de carreira para a área de tecnologia. Sou estagiário em uma empresa de desenvolvimento web, a **KarbonBox**, onde tenho a oportunidade de aplicar e aprender conhecimentos em programação. Moro em Curitiba e estou focado em aprimorar minhas habilidades em Python, JavaScript e frameworks modernos, além de estudar redes de computadores para ampliar meu conhecimento técnico.
+Estagiário em Desenvolvimento Web com foco em Python, JavaScript e frameworks modernos. Apaixonado por tecnologia, estou em transição de carreira e sempre em busca de aprimorar minhas habilidades em programação e redes de computadores.
 
 ## 📚 Estudando
 - **Linguagens de Programação:** 🐍 Python, 🌐 JavaScript
