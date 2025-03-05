@@ -1,28 +1,31 @@
 # 👋 Hey, I'm Eduardo Nizer!
 
 ## 💻 About Me
-I’m a **Web Development Intern** passionate about technology and constantly honing my skills in **Python**, **JavaScript**, and **modern frameworks**. Currently transitioning careers, I’m always eager to learn and grow in the fields of programming and **computer networks**.
+I’m a **Web Development Intern** with a passion for **Python**, **JavaScript**, and **modern frameworks**. On a career transition journey, I’m always eager to expand my knowledge in **programming** and **computer networks**. Let’s build something amazing together!
 
-## 📚 What I'm Learning
-- **Languages:**  
-  🐍 Python | 🌐 JavaScript
+## 📚 Currently Learning
+**Languages:**
+- 🐍 Python
+- 🌐 JavaScript
 
-- **Frameworks & Tools:**  
-  🛠️ Frappe | 🔧 Git
+**Frameworks & Tools:**
+- 🛠️ Frappe
+- 🔧 Git
+- 🎨 HTML | CSS | JavaScript
 
-- **Databases:**  
-  🗃️ MariaDB
+**Databases:**
+- 🗃️ MariaDB
 
-- **Web Development:**  
-  🎨 HTML | CSS
-
-- **Other Skills:**  
-  🌐 Computer Networks (WIP) | 🇬🇧 English (improving)
+**Other Skills:**
+- 🌐 Computer Networks (in progress)
+- 🇬🇧 English (improving)
 
 ## 🚀 Projects in Progress
-I'm building a few **personal projects** to sharpen my skills. Stay tuned for updates on my most exciting works here!
+I’m currently working on personal projects to sharpen my skills. You can expect to see **cool projects** coming soon! Check my GitHub for updates. 👀
 
-## 📬 Let's Connect!
+## 📬 Let’s Connect!
+Feel free to reach out if you want to collaborate or just chat about tech:
+
 - **Email:** 📧 [nyzhereduardo@gmail.com](mailto:nyzhereduardo@gmail.com)
 - **LinkedIn:** 🔗 [Eduardo Nizer](https://www.linkedin.com/in/eduardonizerdg)
 - **GitHub:** 🐙 [Eduardonizer](https://github.com/Eduardonizer)
@@ -30,3 +33,7 @@ I'm building a few **personal projects** to sharpen my skills. Stay tuned for up
 ---
 
 > "The best way to predict the future is to create it." – **Abraham Lincoln**
+
+🔄 **Feel free to explore, fork, or contribute to any of my repositories.**
+
+
