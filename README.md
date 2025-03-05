@@ -1,24 +1,32 @@
-# Hello, I'm Eduardo Nizer! 👋
-## 🧑‍💻 About Me
-Web Development Intern with a focus on Python, JavaScript, and modern frameworks. Passionate about technology, I am transitioning careers and always seeking to improve my skills in programming and computer networks.
+# 👋 Hey, I'm Eduardo Nizer!
 
-# 📚 Currently Studying
-- **Programming Languages:** 🐍 Python, 🌐 JavaScript
+## 💻 About Me
+I’m a **Web Development Intern** passionate about technology and constantly honing my skills in **Python**, **JavaScript**, and **modern frameworks**. Currently transitioning careers, I’m always eager to learn and grow in the fields of programming and **computer networks**.
 
-- **Frameworks:** 🛠️ Frappe
+## 📚 What I'm Learning
+- **Languages:**  
+  🐍 Python | 🌐 JavaScript
 
-- **Databases:** 🗃️ MariaDB
+- **Frameworks & Tools:**  
+  🛠️ Frappe | 🔧 Git
 
-- **Front-end:** 🎨 HTML, CSS
+- **Databases:**  
+  🗃️ MariaDB
 
-- **Others:** 🌐 Computer Networks (in progress), 🇬🇧 English
+- **Web Development:**  
+  🎨 HTML | CSS
 
-## 🚀 Highlighted Projects
-Currently, I am in the learning phase and building personal projects to apply my knowledge. Soon, I will share my most relevant works here!
+- **Other Skills:**  
+  🌐 Computer Networks (WIP) | 🇬🇧 English (improving)
 
-## 📫 How to Reach Me
+## 🚀 Projects in Progress
+I'm building a few **personal projects** to sharpen my skills. Stay tuned for updates on my most exciting works here!
+
+## 📬 Let's Connect!
 - **Email:** 📧 [nyzhereduardo@gmail.com](mailto:nyzhereduardo@gmail.com)
-
 - **LinkedIn:** 🔗 [Eduardo Nizer](https://www.linkedin.com/in/eduardonizerdg)
-
 - **GitHub:** 🐙 [Eduardonizer](https://github.com/Eduardonizer)
+
+---
+
+> "The best way to predict the future is to create it." – **Abraham Lincoln**
