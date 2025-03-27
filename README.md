@@ -30,7 +30,9 @@ Feel free to reach out if you want to collaborate or just chat about tech:
 - **LinkedIn:** 🔗 [Eduardo Nizer](https://www.linkedin.com/in/eduardonizerdg)
 - **GitHub:** 🐙 [Eduardonizer](https://github.com/Eduardonizer)
 
+
 ---
+
 
 > "The best way to predict the future is to create it." – **Abraham Lincoln**
 
