@@ -1,13 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<br>
-<br>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Nizer+👋;I'm+on+a+tech+journey;I'm+a+Web+Development+Intern;I'm+learning+cybersecurity+and+networks;Be+Welcome+to+my+GitHub+profile!+:%29)
 <br>
 <br>
-
-# 👋 Hey, I'm Eduardo Nizer!
 
 ## 💻 About Me
 I’m a **Web Development Intern** with a passion for **Python**, **JavaScript**, and **modern frameworks**. On a career transition journey, I’m always eager to expand my knowledge in **programming** and **computer networks**. Let’s build something amazing together!
