@@ -1,3 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+<br>
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Nizer+👋;I'm+on+a+tech+journey;I'm+a+Web+Development+Intern;I'm+learning+cybersecurity+and+networks;Be+Welcome+to+my+GitHub+profile!+:%29)
+<br>
+<br>
+
 # 👋 Hey, I'm Eduardo Nizer!
 
 ## 💻 About Me
@@ -11,17 +20,21 @@ I’m a **Web Development Intern** with a passion for **Python**, **JavaScript**
 **Frameworks & Tools:**
 - 🛠️ Frappe
 - 🔧 Git
-- 🎨 HTML | CSS | JavaScript
+- 🎨 HTML | CSS | SCSS
 
 **Databases:**
 - 🗃️ MariaDB
 
 **Other Skills:**
+- 🔐 Cybersecurity (Blue Team & Red Team basics)
 - 🌐 Computer Networks (in progress)
 - 🇬🇧 English (improving)
 
 ## 🚀 Projects in Progress
-I’m currently working on personal projects to sharpen my skills. You can expect to see **cool projects** coming soon! Check my GitHub for updates. 👀
+I’m currently working on:
+- **KB Transparência**: A web app for public transparency using Frappe.
+- **Ticketing System**: An app for event management with seat mapping.
+- **Personal Portfolio**: Showcasing my projects for potential job opportunities.
 
 ## 📬 Let’s Connect!
 Feel free to reach out if you want to collaborate or just chat about tech:
@@ -30,9 +43,7 @@ Feel free to reach out if you want to collaborate or just chat about tech:
 - **LinkedIn:** 🔗 [Eduardo Nizer](https://www.linkedin.com/in/eduardonizerdg)
 - **GitHub:** 🐙 [Eduardonizer](https://github.com/Eduardonizer)
 
-
 ---
-
 
 > "The best way to predict the future is to create it." – **Abraham Lincoln**
 
