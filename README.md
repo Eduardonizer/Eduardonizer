@@ -1,37 +1,39 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Nizer+👋;I'm+on+a+tech+journey;I'm+a+Web+Development+Intern;I'm+learning+cybersecurity+and+networks;Be+Welcome+to+my+GitHub+profile!+:%29)
+<br>
 <br>
 
-## 💻 About Me
-I’m a **Web Development Intern** with a passion for **Python**, **JavaScript**, and **modern frameworks**. On a career transition journey, I’m always eager to expand my knowledge in **programming** and **computer networks**. Let’s build something amazing together!
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Eduardo+Nizer+👋;Sou+Desenvolvedor+Web;Apaixonado+por+tecnologia;Trabalho+com+Frappe+Framework;Estudando+Desenvolvimento+Web+e+Redes;🚀)
+<br>
+<br>
 
-## 📚 Currently Learning
-**Languages:**
+# 👋 Olá, eu sou Eduardo Nizer!
+
+## 💻 Sobre mim
+Sou um **Desenvolvedor Web** apaixonado por tecnologia e soluções inovadoras. Trabalho com **JavaScript, Python e Frappe Framework**, e estou sempre buscando aprimorar meus conhecimentos em **segurança da informação** e **redes de computadores**. Meu objetivo é desenvolver aplicações **eficientes, escaláveis e seguras**.
+
+## 📚 Atualmente estudando
+**Linguagens e Frameworks:**
 - 🐍 Python
 - 🌐 JavaScript
+- ⚡ Frappe Framework
 
-**Frameworks & Tools:**
-- 🛠️ Frappe
-- 🔧 Git
-- 🎨 HTML | CSS | SCSS
-
-**Databases:**
+**Banco de Dados:**
 - 🗃️ MariaDB
 
-**Other Skills:**
-- 🔐 Cybersecurity (Blue Team & Red Team basics)
-- 🌐 Computer Networks (in progress)
-- 🇬🇧 English (improving)
+**Outras habilidades:**
+- 🔐 Segurança da Informação (Blue Team & Red Team)
+- 🌐 Redes de Computadores
+- 🇬🇧 Inglês (aprendendo e melhorando)
 
-## 🚀 Projects in Progress
-I’m currently working on:
-- **KB Transparência**: A web app for public transparency using Frappe.
-- **Ticketing System**: An app for event management with seat mapping.
-- **Personal Portfolio**: Showcasing my projects for potential job opportunities.
+## 🚀 Projetos em andamento
+Atualmente, estou trabalhando em:
+- **KB Transparência**: Um sistema para transparência pública utilizando **Frappe Framework**.
+- **Sistema de Ingressos**: Plataforma de gerenciamento de eventos com mapeamento interativo de assentos.
+- **Portfólio Profissional**: Um site para apresentar meus projetos e habilidades.
 
-## 📬 Let’s Connect!
-Feel free to reach out if you want to collaborate or just chat about tech:
+## 📬 Vamos nos conectar!
+Se quiser trocar uma ideia ou colaborar em algum projeto, entre em contato comigo:
 
 - **Email:** 📧 [nyzhereduardo@gmail.com](mailto:nyzhereduardo@gmail.com)
 - **LinkedIn:** 🔗 [Eduardo Nizer](https://www.linkedin.com/in/eduardonizerdg)
@@ -39,8 +41,6 @@ Feel free to reach out if you want to collaborate or just chat about tech:
 
 ---
 
-> "The best way to predict the future is to create it." – **Abraham Lincoln**
+> "A melhor maneira de prever o futuro é criá-lo." – **Abraham Lincoln**
 
-🔄 **Feel free to explore, fork, or contribute to any of my repositories.**
-
-
+🔄 **Fique à vontade para explorar, contribuir ou dar um fork nos meus repositórios!**
