@@ -3,7 +3,7 @@
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Eduardo+Nizer+👋;Sou+Desenvolvedor+Web;Apaixonado+por+tecnologia;Trabalho+com+Frappe+Framework;Estudando+Desenvolvimento+Web+e+Redes;🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Eduardo+Nizer+👋;Sou+Desenvolvedor+Web;Apaixonado+por+tecnologia;Trabalho+com+Frappe+Framework;Estudando+Desenvolvimento+Web+e+Redes+de+Computadores;)
 <br>
 <br>
 
@@ -22,15 +22,8 @@ Sou um **Desenvolvedor Web** apaixonado por tecnologia e soluções inovadoras. 
 - 🗃️ MariaDB
 
 **Outras habilidades:**
-- 🔐 Segurança da Informação (Blue Team & Red Team)
 - 🌐 Redes de Computadores
 - 🇬🇧 Inglês (aprendendo e melhorando)
-
-## 🚀 Projetos em andamento
-Atualmente, estou trabalhando em:
-- **KB Transparência**: Um sistema para transparência pública utilizando **Frappe Framework**.
-- **Sistema de Ingressos**: Plataforma de gerenciamento de eventos com mapeamento interativo de assentos.
-- **Portfólio Profissional**: Um site para apresentar meus projetos e habilidades.
 
 ## 📬 Vamos nos conectar!
 Se quiser trocar uma ideia ou colaborar em algum projeto, entre em contato comigo:
