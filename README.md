@@ -5,10 +5,8 @@
 <br>
 <br>
 
-# 👋 Olá, eu sou Eduardo Nizer!
-
 ## 💻 Sobre mim
-Sou um **Desenvolvedor Web** apaixonado por tecnologia e soluções inovadoras. Trabalho com **JavaScript, Python e Frappe Framework**, e estou sempre buscando aprimorar meus conhecimentos em **segurança da informação** e **redes de computadores**. Meu objetivo é desenvolver aplicações **eficientes, escaláveis e seguras**.
+Olá, meu nome é Eduardo Nizer, sou um **Desenvolvedor Web** apaixonado por tecnologia e soluções inovadoras. Trabalho com **JavaScript, Python e Frappe Framework**, e estou sempre buscando aprimorar meus conhecimentos em **segurança da informação** e **redes de computadores**. Meu objetivo é desenvolver aplicações **eficientes, escaláveis e seguras**.
 
 ## 📚 Atualmente estudando
 **Linguagens e Frameworks:**
